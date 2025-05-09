@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mariyaali123
 - 👀 I’m interested in ...coding,learning new skills,colabrating,
-- 🌱 I’m currently learning ...java,dsa,frontend,c++
-- 💞️ I’m looking to collaborate on ...projects related to frontend development
+- 🌱 I’m currently learning ...java,dsa,frontend,SpringBoot.
+- 💞️ I’m looking to collaborate on ...projects related to fullstack development
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
